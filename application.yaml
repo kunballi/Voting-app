@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Marve-obas/Voting-app-.git
+    repoURL: https://github.com/kunballi/Voting-app.git
     targetRevision: main
     path: k8s-specifications
   destination:
